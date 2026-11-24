@@ -17,41 +17,6 @@
 
 ---
 
-### 🚀 Highlighted Projects
-
-🧭 **Nexus_Syndicate**  
-> A modular TypeScript framework for orchestrating AI agents and workflows. Think LangChain meets plug-and-play dev agents.
-
-🧠 **Eventra**  
-> An AI-powered event planning assistant that automates scheduling, budget tracking, team assignments, and task management for college fests and event organizers.
-
-🧬 **AetherAI**  
-> A research prototype exploring AI decision-making on-chain, developed using the **Move** programming language. Experimental yet bold.
-
----
-
-### 🧰 Tech Stack
-
-**Languages**  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript)
-![Move](https://img.shields.io/badge/-Move-6E44FF?style=flat)
-
-**ML & Data**  
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow)
-![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat&logo=scikit-learn)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy)
-
-**Web & UI**  
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
-![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite)
-![Tailwind](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwindcss)
-![ShadCN](https://img.shields.io/badge/-shadcn/ui-black?style=flat)
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -68,7 +33,6 @@
 
 - 🧠 **Machine Learning** – from small models to deploying MLOps pipelines.
 - 🌐 **AI for the Web** – intelligent UIs, context-aware components, voice input, and automation.
-- 🧪 **AI x Blockchain** – on-chain decision-making, decentralized agents, zkML.
 - 🛠️ **Dev Tools** – building tools that make other devs more productive.
 
 ---
